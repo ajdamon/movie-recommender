@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MinutesFilter
+comment0.text=\r\n\ Author\:\ Alex\ Damon\r\n\ Date\:\ 04/22/18\r\n
+comment1.params=min\ max
+comment1.target=MinutesFilter(int,\ int)
+comment2.params=minutes
+comment2.target=boolean\ inRange(int)
+comment3.params=id
+comment3.target=boolean\ satisfies(java.lang.String)
+numComments=4
